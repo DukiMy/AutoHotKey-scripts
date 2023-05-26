@@ -27,5 +27,4 @@ A script that writes out the current time.
 
 ***
 
-###### Last edited  
-###### ``2023-05-27T01:23:18``
+###### Last edited: ``2023-05-27T01:23:18``
