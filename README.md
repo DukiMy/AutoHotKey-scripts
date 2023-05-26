@@ -5,6 +5,7 @@ Overview
 1. [Time logger](#timeloggerahk)
 2. [...]()
 ## TimeLogger.ahk
+
 **Description**  
 A script that writes out the current time.
 
@@ -15,6 +16,7 @@ A script that writes out the current time.
 
 <!-- 
 ## TimeLogger.ahk
+
 **Description**  
 A script that writes out the current time.
 
